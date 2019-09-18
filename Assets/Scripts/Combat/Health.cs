@@ -11,6 +11,7 @@ namespace RPG.Combat
         {
             return isDead;
         }
+
         public void TakeDamage (float damage)
         {
             health = Mathf.Max(health - damage, 0);
