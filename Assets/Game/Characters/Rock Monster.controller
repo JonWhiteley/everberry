@@ -9,7 +9,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: dddcd03b779bc46219b5de5401276337, type: 2}
+    m_Motion: {fileID: 7400000, guid: 2b8fb5fd094bd4be6b1af362b9496d22, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -17,7 +17,7 @@ BlendTree:
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 17adec315bb994fdf88e00a0b6a71fee, type: 2}
+    m_Motion: {fileID: 7400000, guid: b809e75aca0244405be4ddabef9cd108, type: 2}
     m_Threshold: 0.1
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -133,7 +133,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: b885133dfa47f45508ec8e7b8b63110c, type: 2}
+  m_Motion: {fileID: 7400000, guid: 6e709ded1b77148e8afe7fae35ddc9df, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -199,7 +199,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Character
+  m_Name: Rock Monster
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: forwardSpeed
@@ -286,7 +286,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: c7ac02eecf5c046cd958d282da2a8cdc, type: 2}
+  m_Motion: {fileID: 7400000, guid: d951f2e6c2f704062ab917f78bbfaf6e, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
